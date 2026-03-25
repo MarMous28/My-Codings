@@ -1,3 +1,3 @@
-# Example_of_README
+# Example of README
 
 My first try
