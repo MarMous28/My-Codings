@@ -1,2 +1,3 @@
-# My-Codings
-Example_of_README
+# Example_of_README
+
+My first try
