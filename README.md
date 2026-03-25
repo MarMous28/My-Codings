@@ -1,2 +1,2 @@
 # My-Codings
-My_first_Github_try
+Example_of_README
